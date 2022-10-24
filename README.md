@@ -1,8 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Stefana</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefanaloluta" alt="stefanaloluta" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1227167/screenshots/4265886/victim_004_mac.gif">
-- I’m currently learning **multiple programming languages at Babes Bolyai University, Computer Science**
+- I’m currently learning multiple programming languages at Babes Bolyai University, Computer Science
 
 - This is all my work at uni ♥ **https://github.com/LolutaStefana/UBB-Computer-Science**
 
