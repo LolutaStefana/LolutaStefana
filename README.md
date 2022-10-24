@@ -6,6 +6,8 @@ I’m currently learning multiple programming languages at Babes Bolyai Universi
 
 - This is all my work at uni ♥ **https://github.com/LolutaStefana/UBB-Computer-Science**
 
+- The project for recieving the informatics certificate at the end of highschool: **https://github.com/LolutaStefana/PersonalityTest**
+
 - 📫 How to reach me **stefana.loluta@gmail.com**
 
 - Cool fact about me **I have a really nice and playful tomcat, his name is Prada**
