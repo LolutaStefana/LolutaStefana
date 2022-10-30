@@ -10,7 +10,6 @@ I’m currently learning multiple programming languages at Babes Bolyai Universi
 
 - 📫 How to reach me **stefana.loluta@gmail.com**
 
-- Cool fact about me **I have a really nice and playful tomcat, his name is Prada**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
